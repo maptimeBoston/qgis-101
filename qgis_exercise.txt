@@ -1,0 +1,9 @@
+#maptimeBoston exercise! RAT MAP.
+
+Intro to QGIS: Make a Map
+
+The task for this exercise it to make a map of active Rodent Incidents in the City of Boston in September 2013. The goal is learn how to use the features of QGIS Desktop, including adding data, projecting, running some basic geoprocessing, and using the print composer.
+
+1. Open up a new QGIS Project.
+
+2. Add the following two layers:
