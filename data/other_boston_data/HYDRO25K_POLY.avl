@@ -1,0 +1,391 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	47
+	Class:	50
+	Class:	51
+	Class:	52
+	Class:	53
+	Class:	54
+	Class:	55
+	Class:	56
+	Class:	57
+	StdDevs:	1.00000000000000
+	NullSym:	58
+	NullValues:	62
+	StatValues:	63
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Poly_code"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	18
+	Child:	23
+	Child:	28
+	Child:	33
+	Child:	38
+	Child:	43
+)
+
+(BShSym.5
+	Color:	6
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0x9f77
+	Green:	0xdd7c
+	Blue:	0xf2ff
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0x175b
+	Green:	0xabee
+	Blue:	0xe5ff
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+	Style:	0x03
+	Stipple:	17
+)
+
+(TClr.14
+	Red:	0x131c
+	Green:	0x66b8
+	Blue:	0xe8ff
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Name:	"Transparent"
+)
+
+(Stipple.17
+	Columns:	8
+	Rows:	8
+	Bits:	00081052 7c107e00 
+)
+
+(BShSym.18
+	Color:	19
+	OutlineColor:	20
+	OutlineWidth:	0.10000000000000
+	BgColor:	21
+	Style:	0x03
+	Stipple:	22
+)
+
+(TClr.19
+	Red:	0x3688
+	Green:	0xc1ff
+	Blue:	0x3203
+)
+
+(TClr.20
+)
+
+(TClr.21
+	Name:	"Transparent"
+)
+
+(Stipple.22
+	Columns:	8
+	Rows:	8
+	Bits:	00081052 7c107e00 
+)
+
+(BShSym.23
+	Color:	24
+	OutlineColor:	25
+	OutlineWidth:	0.10000000000000
+	BgColor:	26
+	Style:	0x03
+	Stipple:	27
+)
+
+(TClr.24
+	Red:	0x1307
+	Green:	0x6b45
+	Blue:	0xe7ff
+)
+
+(TClr.25
+)
+
+(TClr.26
+	Red:	0x9ecf
+	Green:	0xde85
+	Blue:	0xf1ff
+)
+
+(Stipple.27
+	Columns:	8
+	Rows:	8
+	Bits:	00081052 7c107e00 
+)
+
+(BShSym.28
+	Color:	29
+	OutlineColor:	30
+	OutlineWidth:	0.10000000000000
+	BgColor:	31
+	Style:	0x03
+	Stipple:	32
+)
+
+(TClr.29
+	Red:	0xb6ff
+	Green:	0x449
+	Blue:	0x79a3
+)
+
+(TClr.30
+)
+
+(TClr.31
+	Name:	"Transparent"
+)
+
+(Stipple.32
+	Columns:	8
+	Rows:	8
+	Bits:	d8c60660 6c8d8118 
+)
+
+(BShSym.33
+	Color:	34
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+	Style:	0x03
+	Stipple:	37
+)
+
+(TClr.34
+	Red:	0xc7
+	Green:	0x253d
+	Blue:	0x6400
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0x9ecf
+	Green:	0xde85
+	Blue:	0xf1ff
+)
+
+(Stipple.37
+	Columns:	8
+	Rows:	8
+	Bits:	10800420 02400801 
+)
+
+(BShSym.38
+	Color:	39
+	OutlineColor:	40
+	OutlineWidth:	0.10000000000000
+	BgColor:	41
+	Style:	0x03
+	Stipple:	42
+)
+
+(TClr.39
+	Red:	0xc7
+	Green:	0xa75c
+	Blue:	0xc7ff
+)
+
+(TClr.40
+)
+
+(TClr.41
+	Name:	"Transparent"
+)
+
+(Stipple.42
+	Columns:	8
+	Rows:	8
+	Bits:	00205000 00020500 
+)
+
+(BShSym.43
+	Color:	44
+	Outline:	1
+	OutlineColor:	45
+	OutlineWidth:	0.10000000000000
+	BgColor:	46
+)
+
+(TClr.44
+	Name:	"Transparent"
+)
+
+(TClr.45
+	Name:	"Transparent"
+)
+
+(TClr.46
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.47
+	IsDisjoint:	1
+	Components:	48
+	Components:	49
+	Label:	"Lake, Pond, Ocean"
+	MinNum:	6.00000000000000
+	MaxNum:	6.00000000000000
+	Precision:	-3
+)
+
+(LClass.48
+	Label:	"6"
+	MinNum:	6.00000000000000
+	MaxNum:	6.00000000000000
+	Precision:	-3
+)
+
+(LClass.49
+	Label:	"8"
+	MinNum:	8.00000000000000
+	MaxNum:	8.00000000000000
+	Precision:	-3
+)
+
+(LClass.50
+	Label:	"Reservoir"
+	MinNum:	1.00000000000000
+	MaxNum:	1.00000000000000
+	Precision:	-3
+)
+
+(LClass.51
+	Label:	"Wetland"
+	MinNum:	2.00000000000000
+	MaxNum:	2.00000000000000
+	Precision:	-3
+)
+
+(LClass.52
+	Label:	"Salt Wetland"
+	MinNum:	5.00000000000000
+	MaxNum:	5.00000000000000
+	Precision:	-3
+)
+
+(LClass.53
+	Label:	"Submerged Wetland"
+	MinNum:	3.00000000000000
+	MaxNum:	3.00000000000000
+	Precision:	-3
+)
+
+(LClass.54
+	Label:	"Cranberry Bog"
+	MinNum:	4.00000000000000
+	MaxNum:	4.00000000000000
+	Precision:	-3
+)
+
+(LClass.55
+	Label:	"Tidal Flat"
+	MinNum:	7.00000000000000
+	MaxNum:	7.00000000000000
+	Precision:	-3
+)
+
+(LClass.56
+	Label:	"Inundated Area"
+	MinNum:	9.00000000000000
+	MaxNum:	9.00000000000000
+	Precision:	-3
+)
+
+(LClass.57
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.58
+	Color:	59
+	Outline:	1
+	OutlineColor:	60
+	OutlineWidth:	0.10000000000000
+	BgColor:	61
+)
+
+(TClr.59
+	Name:	"Transparent"
+)
+
+(TClr.60
+	Name:	"Transparent"
+)
+
+(TClr.61
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.62
+)
+
+(NameDict.63
+)
+
