@@ -50,7 +50,7 @@
 		.slide p{
 			position: absolute;
 			font-size: 64px;
-			line-height: 125px;
+			line-height: 90px;
 			font-weight: bold;
 			text-align: center;
 			margin: 15px 1% 0 1%;
@@ -86,6 +86,7 @@
 		}
 		.slide p.title{
 			font-size: 120px;
+			line-height: 120px;
 		}
 
 		a{
@@ -216,7 +217,7 @@
 <div class="slide image_bottom">
 	<img src="images/rat-map.jpg"/>
 	<p>Todays Task: RAT MAP!<br>
-	Open Data Boston</p>
+	<a target="_blank" href="https://data.cityofboston.gov/">Open Data Boston</a></p>
 </div>
 
 <div class="slide image_bottom">
@@ -262,8 +263,7 @@
 
 <div class="slide">
 	<img src="images/other-toolbars.png"/>
-	<p>Others<br>
-	<br><br><br><br>View -> Toolbars</p>
+	<p>Others<br>View -> Toolbars</p>
 </div>
 
 <div class="slide image_bottom">
@@ -275,14 +275,90 @@
 	<p>Add Data<br>Boston Neighborhoods<br>Rodent Activity (CSV)</p>
 </div>
 
-<div class="slide">
-	<p>Projections<br>fully supported<br>CSV will default to: WGS84</p>
+<div class="slide image_full">
+	<img src="images/chugiak_alaska.png"/>
+	<p>Adding Data - What is supported?<br>
+	<a target="_blank" href="http://www.gdal.org/ogr_formats.html">OGR Vector Formats</a><br>
+	<a target="_blank" href="http://www.gdal.org/formats_list.html">GDAL Raster Formats</a><br>
+	PostGIS, OracleSpatial, SpatialLite<br>
+	Tabular (csv, tsv, etc.)</p>
+</div>
+
+<div class="slide image_full">
+	<img src="images/chugiak_alaska.png"/>
+	<p>Projections<br>Will default to: WGS84<br>Layers -> Individual basis<br>Project -> Project Properties</p>
+</div>
+
+<div class="slide image_full">
+	<img src="images/chugiak_alaska.png"/>
+	<p>Reprojecting a Dataset:<br>Right Click on Layer -> Save As</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/project-properties.png"/>
+	<p>Enable 'on the fly'</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/added-data.png"/>
+	<p>Let's Symbolize</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/layer-properties.png"/>
+	<p>Layer Properties</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/style-tab.png"/>
+	<p>Symbolize in Style Tab</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/properties-select.png"/>
+	<p>Explore the Other Properties</p>
+</div>
+
+<div class="slide image_full">
+	<img src="images/properties-select.png"/>
+	<p>Labels<br/>Fields<br/>Display<br/>Actions<br/>Joins<br/>Diagrams<br/>Metadata</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/editing.png"/>
+	<p>Editing<br/>We won't really do this today.<br/>but you can!</p>
 </div>
 
 <div class="slide">
-	<img src="images/projections.png"/>
-	<p class="title">Reprojecting is Weird!<br>Right Click on Layer -> Save As</p>
+	<img src="images/geoprocessing.png"/>
+	<p>Geoprocessing</p>
 </div>
+
+<div class="slide image_full">
+	<img src="images/geoprocessing.png"/>
+	<p>Vector Menu<br>Raster Menu</p>
+</div>
+
+<div class="slide image_full">
+	<img src="images/geoprocessing.png"/>
+	<p>Try Points in Polygon<br>Calculate the Neighborhoods with the most Rat Violations</p>
+</div>
+
+<div class="slide image_bottom">
+	<img src="images/export-data.png"/>
+	<p>Exporting Datasets<br>Right click -> Save as...<br>Preserve your transformations.</p>
+</div>
+
+<div class="slide">
+	<img src="images/map-before.png"/>
+</div>
+
+<div class="slide image_full">
+	<img src="images/map-before.png"/>
+	<p>To the Print Composer</p>
+</div>
+
+
 
 <script>
 	// The following is mostly derived from https://github.com/tmcw/big
