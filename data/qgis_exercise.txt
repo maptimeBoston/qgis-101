@@ -1,0 +1,47 @@
+#maptimeBoston exercise! RAT MAP.
+
+Intro to QGIS: Make a Map
+
+The task for this exercise it to make a map of active Rodent Incidents in the City of Boston in September 2013.
+The goal is learn how to use the features of QGIS Desktop, including adding data, projecting, running some
+basic geoprocessing, and using the print composer.
+
+1. Open up a new QGIS Project.
+
+2. Add the following two layers:
+	Boston Neighborhoods
+	Rodent Activity 
+
+	Find them on http://data.graphicarto.com/maptime-qgis.zip
+
+	Unzip to access datasets.
+
+3. Export and project the CSV
+	Note: Use Massachusetts State Plane - Mainland Zone - Meters
+
+4. Enable On-The-Fly Projections
+
+5. Symbolize your Data!
+	Right click and go to Properties -> Style
+	Play with the Settings
+
+6. Basic Geoprocessing
+	Try a few geoprocessing tasks
+		Perhaps Buffer around Rat Incidents
+		Or use Point in Polygon to determin Rat Incidents by Neighborhood
+
+7. Add basemap layers
+	The downloaded ZIP includes a set of Boston layers including Hydro and Parks
+	Or, use the Open Layers Plugin and add an OpenStreetMaps basemap!
+
+7. Compose your Map
+	Using the Print Composer!
+	Add a Legend, Scale Bar, Data Sources, etc.
+
+8. Export and Save
+
+Some ideas to try:
+	Make a map of the neighborhoods with the highest number of rat incidents
+	Map all areas near a rat incident
+	Map Rat Incidents by type and date
+	Or find some other data, add it, and combine!
